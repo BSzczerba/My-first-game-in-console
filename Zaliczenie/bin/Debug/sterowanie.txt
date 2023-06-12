@@ -1,0 +1,6 @@
+RightArrow
+LeftArrow
+UpArrow
+E
+F
+R
